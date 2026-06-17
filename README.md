@@ -1,4 +1,4 @@
-# Mechtronix Industries: E-Commerce Web App ⚙️
+# Product Card Component⚙️
 
 **Mechtronix Industries** is a modern e-commerce web application designed for showcasing and selling industrial products. Built with **React** and **Tailwind CSS**, this site provides a smooth shopping experience where users can browse products, manage a shopping cart, and view detailed product information.
 
