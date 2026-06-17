@@ -87,13 +87,10 @@ To get a copy of this project up and running on your local machine, follow these
     npm run dev
     ```
 
-    The application will be available at `http://localhost:5173` (or the port specified in your console).
+    The application will be available at `http://localhost:5173`.
 
 -----
 
 ## ➡️ Future Enhancements
 
-  * **User authentication** to enable secure logins and user-specific features.
   * **Wishlist functionality** to allow users to save products for later.
-  * **Integration with a backend** for product management and order processing.
-  * **Search and filter** options to improve product discoverability.
